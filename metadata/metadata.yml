@@ -1,0 +1,20 @@
+metadata_version: 1
+name: A Direct, Recurrent Reinforcement Learning Agent
+description: This Jupyter notebook contains a tutorial that demonstrates how a recurrent
+  reinforcement learning agent can target a financial risk position directly. The
+  agent is aware of the various sources of profit and loss, including risk holding
+  and execution cost. We will feed in some synthetic predictors and a synthetic target,
+  training the model offline initially, then online as well. Finally, we will review
+  the test set information ratio, which is a risk-adjusted return.
+tags:
+- policy gradients
+- recurrent reinforcement learning
+- online learning
+- transfer learning
+- financial time series
+authors:
+- name: Gabriel Borrageiro
+  affiliations:
+  - name: University College London
+corresponding_contributor:
+  name: gabriel.borrageiro.20@ucl.ac.uk
