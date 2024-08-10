@@ -1,0 +1,3 @@
++ jupyter nbconvert --to html --ExecutePreprocessor.allow_errors=True --ExecutePreprocessor.timeout=-1 --FilesWriter.build_directory=../results --execute drlfx.ipynb
+[NbConvertApp] Converting notebook drlfx.ipynb to html
+[NbConvertApp] Writing 797570 bytes to ../results/drlfx.html
